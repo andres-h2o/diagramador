@@ -149,6 +149,10 @@
 <body style="background-color: rgb(32,163,243)">
 <div id="body">
     <div id="main">
+        <br>
+        <a class="button" style="font-size: 10px;" title="Exportar XML a JAVA" href="{{url('/java')}}" target="_blank">
+            <span class="dashicons dashicons-admin-generic"></span><i class="fa fa-plus"></i> Exporta XML a JAVA
+        </a>
         <div id="umldiagram">
 
         </div>

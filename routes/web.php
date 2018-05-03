@@ -16,6 +16,8 @@ Route::get('/', function () {
 });
 Route::get('/home', function () {
     return view('chat3');
+});Route::get('/java', function () {
+    return view('java');
 });
 
 Auth::routes();
